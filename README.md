@@ -1,9 +1,10 @@
-# matEstudo
+# Material p/ Estudo
 Apenas teórico para memorização
 
 <h1>#BÁSICO</h1>
+
 <ul>
-  <li>Varíaveis</ul>
+  <li>Varíaveis</li>
   <li>Operadores</li>
   <li>Estrutura condicionais</li>
   <li>Controle de fluxo (IF/ELSE)</li>
